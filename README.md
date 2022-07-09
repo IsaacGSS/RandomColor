@@ -2,7 +2,7 @@
 
 ## Status
 
-> <a href="https://bottlenose-clownfish-73c.notion.site/Random-Color-2b4e36413b68471fa5a71ebb2293b6aa"><img src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-notion.svg" title="Javascript" style="width: 50px;"></a> <br/>
+> <a href="https://bottlenose-clownfish-73c.notion.site/Random-Color-2b4e36413b68471fa5a71ebb2293b6aa"><img src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-notion.svg" title="Roadmap Notion" style="width: 50px;"></a> <br/>
 > Status: Finished
 
 ## Technology
