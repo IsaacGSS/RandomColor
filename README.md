@@ -31,7 +31,8 @@
 
 
 
-Font do projeto: <a href="https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/">Ideia para o Projeto</a>
+Font do projeto: <a href="https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/">Ideia para o Projeto</a> <br/>
+Notion: <a href="https://bottlenose-clownfish-73c.notion.site/Random-Color-2b4e36413b68471fa5a71ebb2293b6aa"> Random Color </a>
 
 ### Image 
 
