@@ -1,5 +1,5 @@
 # 🌈 RandomColor
-<q>Um site com cores random para se consultar</q>
+<q>Neste novo projeto eu crio uma interface que possui um único botão, e quando pressiono o fundo ele muda aleatoriamente usando <code>JS</code></q>
 ## 📜 Status
 > Status: Finished
 
@@ -16,9 +16,6 @@
         style="width: 50px;">     
 >---
 >> ### JS :
->> <p>
->>  Neste novo projeto eu crio uma interface que possui um único botão, e quando pressiono o fundo ele muda aleatoriamente usando JS como por exemplo:
->> </p>
 >>
 >> * <code><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array">arrays</a></code>
 >> * <code><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById">document.getElementById()</a></code>
@@ -32,10 +29,9 @@
 
 ## 💻 Funcionalidades
 
-> * Agrupar links 🔗;
-> * Responsividade 📱;
-> * easter egg 🥚; <br/>
-[existe um pokemon escondido]
+> * <code>background</code> Muda de cor de fororma Random 🔀;
+> * Fundo é atualizado com cores🌈 Random ;
+> * Rensponsividade 📱;
 
 ## 👀 Preview
 
