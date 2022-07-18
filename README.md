@@ -35,8 +35,8 @@
 
 ## 👀 Preview
 
-> <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3003c790-2095-40a3-ab47-b025e5b9e331/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220711%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220711T035433Z&X-Amz-Expires=86400&X-Amz-Signature=27250ef26452b7f2947890d7575b0e3816bc03a6f925b4737bff19c7b8c4607d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" title="Randomcolor [Mobile]" style="width: 19%;">
-> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQH4d41NkXithQ/feedshare-shrink_800/0/1656443101339?e=1659571200&v=beta&t=2ymmV4ckkk0Nuzjcsq_bB6CEhOXy5b53XwPLZi1AnM8" style="width: 76%;">
+> <img src="assets/md/mobile.png" title="Randomcolor [Mobile]" style="width: 19%;">
+> <img src="assets/md/pc.jpeg" style="width: 76%;">
 > 
 > ### Gif
-> <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/70749dde-0f11-494a-bdad-f692419f794c/2022-07-11-00-51-50.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220711%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220711T040334Z&X-Amz-Expires=86400&X-Amz-Signature=fe3e8d7316daba16a29069ca21d3d98ac8a0eff3a8a61eff0e82dda31f6f1091&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%222022-07-11-00-51-50.gif%22&x-id=GetObject" title="Gif de funcionamento">
+> <img src="assets/md/gif.gif" title="Gif de funcionamento">
